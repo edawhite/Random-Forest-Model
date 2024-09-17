@@ -57,5 +57,3 @@ ax.set_title("Feature importances using MDI")
 ax.set_ylabel("Mean decrease in impurity")
 fig.tight_layout()
 plt.show()
-
-print("Checking for push update")
